@@ -1,0 +1,8 @@
+lxml==4.4.1
+html5lib==1.0.1
+beautifulsoup4==4.8.0
+pandas==1.2.3
+streamlit==0.75.0
+matplotlib==3.1.1
+plotly==4.14.3
+scikit_learn==0.24.1
